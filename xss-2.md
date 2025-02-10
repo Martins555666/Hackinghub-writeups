@@ -1,8 +1,8 @@
-## XSS靶场2
+## XSS challenge2
 
 1.进去靶场有个输入框
 
-![image-20250204184558451](C:\Users\zheng\AppData\Roaming\Typora\typora-user-images\image-20250204184558451.png)
+![image-20250204184558451](https://github.com/Martins555666/Hackinghub-writeups/blob/main/image/image-20250204184558451.png)
 
 2.尝试输入<u>111</u>,但并没有显示在页面中
 
